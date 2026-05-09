@@ -1,0 +1,14 @@
+{
+  "appConfig": {
+    "currentUserId": "current_user",
+    "currentUser": {
+      "userId": "current_user",
+      "userName": "Coffee",
+      "remarkName": null,
+      "wxId": "wxid_coffee",
+      "region": "北京 海淀",
+      "avatarUrl": "avatar/me.jpg",
+      "signature": "加油!"
+    }
+  }
+}

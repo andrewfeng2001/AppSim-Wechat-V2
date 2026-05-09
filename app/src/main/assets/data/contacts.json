@@ -1,0 +1,1106 @@
+{
+  "friends": [
+    {
+      "userId": "user_1",
+      "userName": "王晨曦",
+      "remarkName": "大学室友",
+      "wxId": "wangchenxi_2024",
+      "region": "北京 朝阳",
+      "avatarUrl": "avatar/friend_1.jpg",
+      "signature": "生活不止眼前的苟且，还有诗和远方",
+      "isFriend": true
+    },
+    {
+      "userId": "user_2",
+      "userName": "13912348888北京大学李强老师",
+      "remarkName": "13912348888-北大-李强老师",
+      "wxId": "teacher_li_mq",
+      "region": "上海 浦东",
+      "avatarUrl": "avatar/friend_2.jpg",
+      "signature": "教书育人，传道授业解惑",
+      "isFriend": true
+    },
+    {
+      "userId": "user_3",
+      "userName": "张杰",
+      "remarkName": null,
+      "wxId": "zhangjie_music",
+      "region": "广东 广州",
+      "avatarUrl": "avatar/friend_3.jpg",
+      "signature": "音乐是我的生活，生活是我的音乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_4",
+      "userName": "刘乐乐",
+      "remarkName": "同事",
+      "wxId": "liulele_happy",
+      "region": "广东 深圳",
+      "avatarUrl": "avatar/friend_4.jpg",
+      "signature": "每天都要开开心心的！",
+      "isFriend": true
+    },
+    {
+      "userId": "user_5",
+      "userName": "陈思雨",
+      "remarkName": "家庭医生",
+      "wxId": "doctor_chen_sy",
+      "region": "浙江 杭州",
+      "avatarUrl": "avatar/friend_5.jpg",
+      "signature": "健康第一，预防为主",
+      "isFriend": true
+    },
+    {
+      "userId": "user_6",
+      "userName": "马云飞",
+      "remarkName": "健身教练",
+      "wxId": "mayunfei_fit",
+      "region": "四川 成都",
+      "avatarUrl": "avatar/friend_6.jpg",
+      "signature": "坚持运动，享受生活",
+      "isFriend": true
+    },
+    {
+      "userId": "user_7",
+      "userName": "赵晓萌",
+      "remarkName": "设计师朋友",
+      "wxId": "zhaoxm_design",
+      "region": "陕西 西安",
+      "avatarUrl": "avatar/friend_7.jpg",
+      "signature": "设计改变生活，创意点亮未来",
+      "isFriend": true
+    },
+    {
+      "userId": "user_8",
+      "userName": "孙悦彤",
+      "remarkName": null,
+      "wxId": "sunyuetong_2023",
+      "region": "江苏 南京",
+      "avatarUrl": "avatar/friend_8.jpg",
+      "signature": "读书使人明智，思考使人深刻",
+      "isFriend": true
+    },
+    {
+      "userId": "user_9",
+      "userName": "吴雨轩",
+      "remarkName": null,
+      "wxId": "wuyuxuan_tech",
+      "region": "湖北 武汉",
+      "avatarUrl": "avatar/friend_9.jpg",
+      "signature": "技术改变世界，代码成就梦想",
+      "isFriend": true
+    },
+    {
+      "userId": "user_10",
+      "userName": "陈晓彤",
+      "remarkName": null,
+      "wxId": "chenxiaotong_dev",
+      "region": "广东 深圳",
+      "avatarUrl": "avatar/friend_10.png",
+      "signature": "热爱生活，也热爱代码",
+      "isFriend": true
+    },
+    {
+      "userId": "user_11",
+      "userName": "张天宇",
+      "remarkName": null,
+      "wxId": "zhangtianyu88",
+      "region": "北京 朝阳",
+      "avatarUrl": "avatar/friend_11.png",
+      "signature": "专注前端十年，不负代码不负心",
+      "isFriend": true
+    },
+    {
+      "userId": "user_12",
+      "userName": "李思雨",
+      "remarkName": null,
+      "wxId": "lisiyu_art",
+      "region": "上海 浦东",
+      "avatarUrl": "avatar/friend_12.png",
+      "signature": "代码是艺术的一种形式",
+      "isFriend": true
+    },
+    {
+      "userId": "user_13",
+      "userName": "赵子涵",
+      "remarkName": null,
+      "wxId": "zhaozihan_coder",
+      "region": "浙江 杭州",
+      "avatarUrl": "avatar/friend_13.png",
+      "signature": "AI改变世界，我改变AI",
+      "isFriend": true
+    },
+    {
+      "userId": "user_14",
+      "userName": "王晨曦",
+      "remarkName": null,
+      "wxId": "wangchenxi_morning",
+      "region": "四川 成都",
+      "avatarUrl": "avatar/friend_14.png",
+      "signature": "清晨写代码，夜晚写诗",
+      "isFriend": true
+    },
+    {
+      "userId": "user_15",
+      "userName": "刘俊",
+      "remarkName": null,
+      "wxId": "liujun_backend",
+      "region": "江苏 南京",
+      "avatarUrl": "avatar/friend_15.png",
+      "signature": "后端如山，稳中求快",
+      "isFriend": true
+    },
+    {
+      "userId": "user_16",
+      "userName": "黄婧怡",
+      "remarkName": null,
+      "wxId": "huangjingyi_ui",
+      "region": "福建 厦门",
+      "avatarUrl": "avatar/friend_16.png",
+      "signature": "设计的灵感来自生活",
+      "isFriend": true
+    },
+    {
+      "userId": "user_17",
+      "userName": "周浩然",
+      "remarkName": null,
+      "wxId": "zhouhaoran_ai",
+      "region": "山东 青岛",
+      "avatarUrl": "avatar/friend_17.png",
+      "signature": "让AI更懂人类",
+      "isFriend": true
+    },
+    {
+      "userId": "user_18",
+      "userName": "孙睿",
+      "remarkName": null,
+      "wxId": "sunrui_design",
+      "region": "湖南 长沙",
+      "avatarUrl": "avatar/friend_18.png",
+      "signature": "设计即表达，像素也有温度",
+      "isFriend": true
+    },
+    {
+      "userId": "user_19",
+      "userName": "林子豪",
+      "remarkName": null,
+      "wxId": "linzihao_game",
+      "region": "重庆 渝北",
+      "avatarUrl": "avatar/friend_19.png",
+      "signature": "做游戏，也做梦想的构建师",
+      "isFriend": true
+    },
+    {
+      "userId": "user_20",
+      "userName": "徐若曦",
+      "remarkName": null,
+      "wxId": "xuruoxi_photography",
+      "region": "云南 昆明",
+      "avatarUrl": "avatar/friend_20.png",
+      "signature": "用镜头记录生活，用代码创造未来",
+      "isFriend": true
+    },
+    {
+      "userId": "user_21",
+      "userName": "Thu-Kai He（清华何老师）",
+      "remarkName": null,
+      "wxId": "hekai_fullstack",
+      "region": "河北 石家庄",
+      "avatarUrl": "avatar/friend_21.png",
+      "signature": "全栈是态度，不是标签",
+      "isFriend": true
+    },
+    {
+      "userId": "user_22",
+      "userName": "张晓明",
+      "remarkName": null,
+      "wxId": "zhangxiaoming_2024",
+      "region": "北京 海淀",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "努力工作，认真生活",
+      "isFriend": true
+    },
+    {
+      "userId": "user_23",
+      "userName": "李强",
+      "remarkName": null,
+      "wxId": "liqiang_sports",
+      "region": "上海 徐汇",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "运动让生活更精彩",
+      "isFriend": true
+    },
+    {
+      "userId": "user_24",
+      "userName": "王小华",
+      "remarkName": null,
+      "wxId": "wangxiaohua_music",
+      "region": "广州 天河",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "音乐是心灵的语言",
+      "isFriend": true
+    },
+    {
+      "userId": "user_25",
+      "userName": "陈敏",
+      "remarkName": null,
+      "wxId": "chenmin_teacher",
+      "region": "深圳 南山",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "教育是最伟大的事业",
+      "isFriend": true
+    },
+    {
+      "userId": "user_26",
+      "userName": "刘建国",
+      "remarkName": null,
+      "wxId": "liujianguo_engineer",
+      "region": "杭州 西湖",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "工程师的浪漫是严谨与创新",
+      "isFriend": true
+    },
+    {
+      "userId": "user_27",
+      "userName": "赵丽娟",
+      "remarkName": null,
+      "wxId": "zhaolijuan_doctor",
+      "region": "南京 鼓楼",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "医者仁心，治病救人",
+      "isFriend": true
+    },
+    {
+      "userId": "user_28",
+      "userName": "孙志强",
+      "remarkName": null,
+      "wxId": "sunzhiqiang_business",
+      "region": "武汉 江岸",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "商场如战场，诚信是根本",
+      "isFriend": true
+    },
+    {
+      "userId": "user_29",
+      "userName": "周美丽",
+      "remarkName": null,
+      "wxId": "zhoumeili_artist",
+      "region": "西安 雁塔",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "艺术让世界更美好",
+      "isFriend": true
+    },
+    {
+      "userId": "user_30",
+      "userName": "吴建华",
+      "remarkName": null,
+      "wxId": "wujianhua_chef",
+      "region": "成都 锦江",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "用心做菜，传递温暖",
+      "isFriend": true
+    },
+    {
+      "userId": "user_31",
+      "userName": "郑小芳",
+      "remarkName": null,
+      "wxId": "zhengxiaofang_nurse",
+      "region": "重庆 江北",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "护理是一门艺术，更是一种责任",
+      "isFriend": true
+    },
+    {
+      "userId": "user_32",
+      "userName": "冯志远",
+      "remarkName": null,
+      "wxId": "fengzhiyuan_lawyer",
+      "region": "长沙 岳麓",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "法律面前人人平等",
+      "isFriend": true
+    },
+    {
+      "userId": "user_33",
+      "userName": "何秀英",
+      "remarkName": null,
+      "wxId": "hexiuying_librarian",
+      "region": "昆明 五华",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "书籍是人类进步的阶梯",
+      "isFriend": true
+    },
+    {
+      "userId": "user_34",
+      "userName": "蒋国庆",
+      "remarkName": null,
+      "wxId": "jiangguoqing_farmer",
+      "region": "石家庄 长安",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "种田种出幸福来",
+      "isFriend": true
+    },
+    {
+      "userId": "user_35",
+      "userName": "韩雪梅",
+      "remarkName": null,
+      "wxId": "hanxuemei_designer",
+      "region": "青岛 市南",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "设计创造美好生活",
+      "isFriend": true
+    },
+    {
+      "userId": "user_36",
+      "userName": "曹建军",
+      "remarkName": null,
+      "wxId": "caojianjun_driver",
+      "region": "郑州 中原",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "安全驾驶，平安回家",
+      "isFriend": true
+    },
+    {
+      "userId": "user_37",
+      "userName": "邓玉华",
+      "remarkName": null,
+      "wxId": "dengyuhua_accountant",
+      "region": "合肥 蜀山",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "数字背后的故事",
+      "isFriend": true
+    },
+    {
+      "userId": "user_38",
+      "userName": "许文斌",
+      "remarkName": null,
+      "wxId": "xuwenbin_mechanic",
+      "region": "福州 鼓楼",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "机械之美在于精确",
+      "isFriend": true
+    },
+    {
+      "userId": "user_39",
+      "userName": "余晓霞",
+      "remarkName": null,
+      "wxId": "yuxiaoxia_translator",
+      "region": "南昌 东湖",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "语言是沟通的桥梁",
+      "isFriend": true
+    },
+    {
+      "userId": "user_40",
+      "userName": "谭志华",
+      "remarkName": null,
+      "wxId": "tanzhihua_photographer",
+      "region": "贵阳 南明",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "定格美好瞬间",
+      "isFriend": true
+    },
+    {
+      "userId": "user_41",
+      "userName": "苏丽萍",
+      "remarkName": null,
+      "wxId": "suliping_psychologist",
+      "region": "海口 龙华",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "心理健康，生活阳光",
+      "isFriend": true
+    },
+    {
+      "userId": "user_42",
+      "userName": "杨伟",
+      "remarkName": null,
+      "wxId": "yangwei_2025",
+      "region": "北京 朝阳",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "即兴生活",
+      "isFriend": true
+    },
+    {
+      "userId": "user_43",
+      "userName": "刘芳",
+      "remarkName": null,
+      "wxId": "liufang_2025",
+      "region": "上海 浦东",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "保持热爱",
+      "isFriend": true
+    },
+    {
+      "userId": "user_44",
+      "userName": "张建国",
+      "remarkName": null,
+      "wxId": "zhangjianguo_2024",
+      "region": "广东 广州",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "万物可爱",
+      "isFriend": true
+    },
+    {
+      "userId": "user_45",
+      "userName": "王秀英",
+      "remarkName": null,
+      "wxId": "wangxiuying_2022",
+      "region": "广东 深圳",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "未来可期",
+      "isFriend": true
+    },
+    {
+      "userId": "user_46",
+      "userName": "陈杰",
+      "remarkName": null,
+      "wxId": "chenjie_2025",
+      "region": "浙江 杭州",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "简单快乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_47",
+      "userName": "李丽",
+      "remarkName": null,
+      "wxId": "lili_2020",
+      "region": "四川 成都",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "知足常乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_48",
+      "userName": "赵强",
+      "remarkName": null,
+      "wxId": "zhaoqiang_2022",
+      "region": "重庆 渝北",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "心向阳光",
+      "isFriend": true
+    },
+    {
+      "userId": "user_49",
+      "userName": "孙敏",
+      "remarkName": null,
+      "wxId": "sunmin_2024",
+      "region": "湖北 武汉",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "努力奋斗",
+      "isFriend": true
+    },
+    {
+      "userId": "user_50",
+      "userName": "周涛",
+      "remarkName": null,
+      "wxId": "zhoutao_2024",
+      "region": "陕西 西安",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "顺其自然",
+      "isFriend": true
+    },
+    {
+      "userId": "user_51",
+      "userName": "吴艳",
+      "remarkName": null,
+      "wxId": "wuyan_2024",
+      "region": "江苏 南京",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "平安喜乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_52",
+      "userName": "郑平",
+      "remarkName": null,
+      "wxId": "zhengping_2022",
+      "region": "天津 和平",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "认真生活",
+      "isFriend": true
+    },
+    {
+      "userId": "user_53",
+      "userName": "何娜",
+      "remarkName": null,
+      "wxId": "hena_2023",
+      "region": "江苏 苏州",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "好好吃饭",
+      "isFriend": true
+    },
+    {
+      "userId": "user_54",
+      "userName": "郭亮",
+      "remarkName": null,
+      "wxId": "guoliang_2020",
+      "region": "河南 郑州",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "天天向上",
+      "isFriend": true
+    },
+    {
+      "userId": "user_55",
+      "userName": "高燕",
+      "remarkName": null,
+      "wxId": "gaoyan_2020",
+      "region": "湖南 长沙",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "快乐至上",
+      "isFriend": true
+    },
+    {
+      "userId": "user_56",
+      "userName": "宋军",
+      "remarkName": null,
+      "wxId": "songjun_2024",
+      "region": "广东 东莞",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "随遇而安",
+      "isFriend": true
+    },
+    {
+      "userId": "user_57",
+      "userName": "马兰",
+      "remarkName": null,
+      "wxId": "malan_2023",
+      "region": "辽宁 沈阳",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "即兴生活",
+      "isFriend": true
+    },
+    {
+      "userId": "user_58",
+      "userName": "罗刚",
+      "remarkName": null,
+      "wxId": "luogang_2020",
+      "region": "山东 青岛",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "保持热爱",
+      "isFriend": true
+    },
+    {
+      "userId": "user_59",
+      "userName": "韩梅",
+      "remarkName": null,
+      "wxId": "hanmei_2020",
+      "region": "云南 昆明",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "万物可爱",
+      "isFriend": true
+    },
+    {
+      "userId": "user_60",
+      "userName": "曹勇",
+      "remarkName": null,
+      "wxId": "caoyong_2022",
+      "region": "浙江 宁波",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "未来可期",
+      "isFriend": true
+    },
+    {
+      "userId": "user_61",
+      "userName": "邓霞",
+      "remarkName": null,
+      "wxId": "dengxia_2024",
+      "region": "江苏 无锡",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "简单快乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_62",
+      "userName": "许磊",
+      "remarkName": null,
+      "wxId": "xulei_2021",
+      "region": "北京 朝阳",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "知足常乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_63",
+      "userName": "余静",
+      "remarkName": null,
+      "wxId": "yujing_2023",
+      "region": "上海 浦东",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "心向阳光",
+      "isFriend": true
+    },
+    {
+      "userId": "user_64",
+      "userName": "谭波",
+      "remarkName": null,
+      "wxId": "tanbo_2021",
+      "region": "广东 广州",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "努力奋斗",
+      "isFriend": true
+    },
+    {
+      "userId": "user_65",
+      "userName": "苏娟",
+      "remarkName": null,
+      "wxId": "sujuan_2024",
+      "region": "广东 深圳",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "顺其自然",
+      "isFriend": true
+    },
+    {
+      "userId": "user_66",
+      "userName": "唐伟",
+      "remarkName": null,
+      "wxId": "tangwei_2022",
+      "region": "浙江 杭州",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "平安喜乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_67",
+      "userName": "林丹",
+      "remarkName": null,
+      "wxId": "lindan_2023",
+      "region": "四川 成都",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "认真生活",
+      "isFriend": true
+    },
+    {
+      "userId": "user_68",
+      "userName": "冯明",
+      "remarkName": null,
+      "wxId": "fengming_2023",
+      "region": "重庆 渝北",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "好好吃饭",
+      "isFriend": true
+    },
+    {
+      "userId": "user_69",
+      "userName": "谢婷",
+      "remarkName": null,
+      "wxId": "xieting_2020",
+      "region": "湖北 武汉",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "天天向上",
+      "isFriend": true
+    },
+    {
+      "userId": "user_70",
+      "userName": "袁辉",
+      "remarkName": null,
+      "wxId": "yuanhui_2022",
+      "region": "陕西 西安",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "快乐至上",
+      "isFriend": true
+    },
+    {
+      "userId": "user_71",
+      "userName": "彭萍",
+      "remarkName": null,
+      "wxId": "pengping_2021",
+      "region": "江苏 南京",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "随遇而安",
+      "isFriend": true
+    },
+    {
+      "userId": "user_72",
+      "userName": "于海",
+      "remarkName": null,
+      "wxId": "yuhai_2024",
+      "region": "天津 和平",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "即兴生活",
+      "isFriend": true
+    },
+    {
+      "userId": "user_73",
+      "userName": "董薇",
+      "remarkName": null,
+      "wxId": "dongwei_2021",
+      "region": "江苏 苏州",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "保持热爱",
+      "isFriend": true
+    },
+    {
+      "userId": "user_74",
+      "userName": "梁宇",
+      "remarkName": null,
+      "wxId": "liangyu_2020",
+      "region": "河南 郑州",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "万物可爱",
+      "isFriend": true
+    },
+    {
+      "userId": "user_75",
+      "userName": "蒋红",
+      "remarkName": null,
+      "wxId": "jianghong_2023",
+      "region": "湖南 长沙",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "未来可期",
+      "isFriend": true
+    },
+    {
+      "userId": "user_76",
+      "userName": "贾伟",
+      "remarkName": null,
+      "wxId": "jiawei_2023",
+      "region": "广东 东莞",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "简单快乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_77",
+      "userName": "卢欣",
+      "remarkName": null,
+      "wxId": "luxin_2020",
+      "region": "辽宁 沈阳",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "知足常乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_78",
+      "userName": "魏强",
+      "remarkName": null,
+      "wxId": "weiqiang_2022",
+      "region": "山东 青岛",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "心向阳光",
+      "isFriend": true
+    },
+    {
+      "userId": "user_79",
+      "userName": "薛琴",
+      "remarkName": null,
+      "wxId": "xueqin_2023",
+      "region": "云南 昆明",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "努力奋斗",
+      "isFriend": true
+    },
+    {
+      "userId": "user_80",
+      "userName": "戴军",
+      "remarkName": null,
+      "wxId": "daijun_2020",
+      "region": "浙江 宁波",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "顺其自然",
+      "isFriend": true
+    },
+    {
+      "userId": "user_81",
+      "userName": "范琳",
+      "remarkName": null,
+      "wxId": "fanlin_2021",
+      "region": "江苏 无锡",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "平安喜乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_82",
+      "userName": "崔峰",
+      "remarkName": null,
+      "wxId": "cuifeng_2021",
+      "region": "北京 朝阳",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "认真生活",
+      "isFriend": true
+    },
+    {
+      "userId": "user_83",
+      "userName": "程洁",
+      "remarkName": null,
+      "wxId": "chengjie_2020",
+      "region": "上海 浦东",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "好好吃饭",
+      "isFriend": true
+    },
+    {
+      "userId": "user_84",
+      "userName": "陆安",
+      "remarkName": null,
+      "wxId": "luan_2025",
+      "region": "广东 广州",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "天天向上",
+      "isFriend": true
+    },
+    {
+      "userId": "user_85",
+      "userName": "陶芳",
+      "remarkName": null,
+      "wxId": "taofang_2021",
+      "region": "广东 深圳",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "快乐至上",
+      "isFriend": true
+    },
+    {
+      "userId": "user_86",
+      "userName": "姚杰",
+      "remarkName": null,
+      "wxId": "yaojie_2025",
+      "region": "浙江 杭州",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "随遇而安",
+      "isFriend": true
+    },
+    {
+      "userId": "user_87",
+      "userName": "孟琪",
+      "remarkName": null,
+      "wxId": "mengqi_2023",
+      "region": "四川 成都",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "即兴生活",
+      "isFriend": true
+    },
+    {
+      "userId": "user_88",
+      "userName": "姜涛",
+      "remarkName": null,
+      "wxId": "jiangtao_2022",
+      "region": "重庆 渝北",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "保持热爱",
+      "isFriend": true
+    },
+    {
+      "userId": "user_89",
+      "userName": "邵红",
+      "remarkName": null,
+      "wxId": "shaohong_2024",
+      "region": "湖北 武汉",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "万物可爱",
+      "isFriend": true
+    },
+    {
+      "userId": "user_90",
+      "userName": "侯远",
+      "remarkName": null,
+      "wxId": "houyuan_2024",
+      "region": "陕西 西安",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "未来可期",
+      "isFriend": true
+    },
+    {
+      "userId": "user_91",
+      "userName": "康丽",
+      "remarkName": null,
+      "wxId": "kangli_2021",
+      "region": "江苏 南京",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "简单快乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_92",
+      "userName": "史刚",
+      "remarkName": null,
+      "wxId": "shigang_2024",
+      "region": "天津 和平",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "知足常乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_93",
+      "userName": "万芳",
+      "remarkName": null,
+      "wxId": "wanfang_2021",
+      "region": "江苏 苏州",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "心向阳光",
+      "isFriend": true
+    },
+    {
+      "userId": "user_94",
+      "userName": "顾明",
+      "remarkName": null,
+      "wxId": "guming_2020",
+      "region": "河南 郑州",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "努力奋斗",
+      "isFriend": true
+    },
+    {
+      "userId": "user_95",
+      "userName": "杜雪",
+      "remarkName": null,
+      "wxId": "duxue_2022",
+      "region": "湖南 长沙",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "顺其自然",
+      "isFriend": true
+    },
+    {
+      "userId": "user_96",
+      "userName": "龚强",
+      "remarkName": null,
+      "wxId": "gongqiang_2020",
+      "region": "广东 东莞",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "平安喜乐",
+      "isFriend": true
+    },
+    {
+      "userId": "user_97",
+      "userName": "邹薇",
+      "remarkName": null,
+      "wxId": "zouwei_2025",
+      "region": "辽宁 沈阳",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "认真生活",
+      "isFriend": true
+    },
+    {
+      "userId": "user_98",
+      "userName": "钱伟",
+      "remarkName": null,
+      "wxId": "qianwei_2024",
+      "region": "山东 青岛",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "好好吃饭",
+      "isFriend": true
+    },
+    {
+      "userId": "user_99",
+      "userName": "章敏",
+      "remarkName": null,
+      "wxId": "zhangmin_2023",
+      "region": "云南 昆明",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "天天向上",
+      "isFriend": true
+    },
+    {
+      "userId": "user_100",
+      "userName": "熊杰",
+      "remarkName": null,
+      "wxId": "xiongjie_2020",
+      "region": "浙江 宁波",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "快乐至上",
+      "isFriend": true
+    },
+    {
+      "userId": "user_101",
+      "userName": "蔡云",
+      "remarkName": null,
+      "wxId": "caiyun_2023",
+      "region": "江苏 无锡",
+      "avatarUrl": "avatar/00_default_avatar.jpg",
+      "signature": "随遇而安",
+      "isFriend": true
+    }
+  ],
+  "nonFriends": [
+    {
+      "userId": "nonfriend_1",
+      "userName": "周慧敏",
+      "remarkName": null,
+      "wxId": "zhouhuimin_neighbor",
+      "region": "天津 和平",
+      "avatarUrl": "avatar/nonfriend_1.jpg",
+      "signature": "邻里和睦，互帮互助",
+      "isFriend": false
+    },
+    {
+      "userId": "nonfriend_2",
+      "userName": "郑浩然",
+      "remarkName": null,
+      "wxId": "zhenghaoran_photo",
+      "region": "重庆 渝中",
+      "avatarUrl": "avatar/nonfriend_2.jpg",
+      "signature": "用镜头记录美好，用心感受世界",
+      "isFriend": false
+    },
+    {
+      "userId": "nonfriend_3",
+      "userName": "黄诗涵",
+      "remarkName": null,
+      "wxId": "huangshihan_coffee",
+      "region": "福建 厦门",
+      "avatarUrl": "avatar/nonfriend_3.jpg",
+      "signature": "一杯好咖啡，温暖一颗心",
+      "isFriend": false
+    },
+    {
+      "userId": "nonfriend_4",
+      "userName": "林志豪",
+      "remarkName": null,
+      "wxId": "linzhihao_startup",
+      "region": "山东 青岛",
+      "avatarUrl": "avatar/nonfriend_4.jpg",
+      "signature": "创新创业，永不止步",
+      "isFriend": false
+    },
+    {
+      "userId": "nonfriend_5",
+      "userName": "徐美琳",
+      "remarkName": null,
+      "wxId": "xumeilin_yoga",
+      "region": "江苏 苏州",
+      "avatarUrl": "avatar/nonfriend_5.jpg",
+      "signature": "身心和谐，内外兼修",
+      "isFriend": false
+    },
+    {
+      "userId": "nonfriend_6",
+      "userName": "何俊杰",
+      "remarkName": null,
+      "wxId": "hejunjie_travel",
+      "region": "云南 昆明",
+      "avatarUrl": "avatar/nonfriend_6.jpg",
+      "signature": "世界那么大，我想去看看",
+      "isFriend": false
+    },
+    {
+      "userId": "nonfriend_7",
+      "userName": "罗晨阳",
+      "remarkName": null,
+      "wxId": "luochenyang_game",
+      "region": "湖南 长沙",
+      "avatarUrl": "avatar/nonfriend_7.jpg",
+      "signature": "游戏人生，快乐至上",
+      "isFriend": false
+    },
+    {
+      "userId": "nonfriend_8",
+      "userName": "谢雨桐",
+      "remarkName": null,
+      "wxId": "xieyutong_art",
+      "region": "安徽 合肥",
+      "avatarUrl": "avatar/nonfriend_8.jpg",
+      "signature": "艺术来源于生活，高于生活",
+      "isFriend": false
+    },
+    {
+      "userId": "nonfriend_9",
+      "userName": "钱思远",
+      "remarkName": null,
+      "wxId": "qiansiyuan_finance",
+      "region": "河南 郑州",
+      "avatarUrl": "avatar/nonfriend_9.jpg",
+      "signature": "理财有道，财富自由",
+      "isFriend": false
+    }
+  ]
+}

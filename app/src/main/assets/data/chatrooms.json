@@ -1,0 +1,283 @@
+{
+  "chatRooms": [
+    {
+      "chatRoomId": "group_1",
+      "name": "幸福一家人",
+      "memberIds": [
+        "current_user",
+        "user_1",
+        "user_2",
+        "user_10",
+        "user_16"
+      ],
+      "avatarUrl": "avatar/group_1.jpg",
+      "announcement": "家人闲聊，分享生活点滴",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_2",
+      "name": "工作讨论组",
+      "memberIds": [
+        "current_user",
+        "user_4",
+        "user_2",
+        "user_9",
+        "user_13",
+        "user_11",
+        "user_17",
+        "user_18"
+      ],
+      "avatarUrl": "avatar/group_2.jpg",
+      "announcement": "工作相关讨论，请保持专业",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_3",
+      "name": "大学同学群",
+      "memberIds": [
+        "current_user",
+        "user_1",
+        "user_3",
+        "user_8",
+        "user_15",
+        "user_12",
+        "user_14"
+      ],
+      "avatarUrl": "avatar/group_3.jpg",
+      "announcement": "回忆青春，分享近况",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_4",
+      "name": "健身打卡群",
+      "memberIds": [
+        "current_user",
+        "user_6",
+        "user_14",
+        "user_4",
+        "user_11",
+        "user_9_12"
+      ],
+      "avatarUrl": "avatar/group_4.jpg",
+      "announcement": "每日健身打卡，互相监督",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_5",
+      "name": "周末约饭小分队",
+      "memberIds": [
+        "current_user",
+        "user_41",
+        "user_39",
+        "user_29",
+        "user_36",
+        "user_4",
+        "user_92",
+        "user_69",
+        "user_38",
+        "user_65",
+        "user_12",
+        "user_82",
+        "user_79",
+        "user_73"
+      ],
+      "avatarUrl": "avatar/group_3.jpg",
+      "announcement": "唯有美食与爱不可辜负",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_6",
+      "name": "LOL开黑车队",
+      "memberIds": [
+        "current_user",
+        "user_44",
+        "user_17",
+        "user_90",
+        "user_29",
+        "user_87",
+        "user_41",
+        "user_101",
+        "user_45",
+        "user_11"
+      ],
+      "avatarUrl": "avatar/group_1.jpg",
+      "announcement": "峡谷相见，不服来战！",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_7",
+      "name": "王者荣耀上分群",
+      "memberIds": [
+        "current_user",
+        "user_66",
+        "user_54",
+        "user_63",
+        "user_51",
+        "user_46",
+        "user_39",
+        "user_38",
+        "user_6",
+        "user_70"
+      ],
+      "avatarUrl": "avatar/group_3.jpg",
+      "announcement": "带飞带躺，快乐上分",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_8",
+      "name": "2025届校友群",
+      "memberIds": [
+        "current_user",
+        "user_17",
+        "user_87",
+        "user_10",
+        "user_29",
+        "user_52",
+        "user_43",
+        "user_1",
+        "user_47",
+        "user_79",
+        "user_84"
+      ],
+      "avatarUrl": "avatar/group_4.jpg",
+      "announcement": "常联系，苟富贵勿相忘",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_9",
+      "name": "产品经理交流群",
+      "memberIds": [
+        "current_user",
+        "user_43",
+        "user_80",
+        "user_81",
+        "user_6",
+        "user_98",
+        "user_87",
+        "user_58",
+        "user_55",
+        "user_46",
+        "user_66",
+        "user_23",
+        "user_73",
+        "user_70"
+      ],
+      "avatarUrl": "avatar/group_4.jpg",
+      "announcement": "分享产品干货，交流行业动态",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_10",
+      "name": "Python技术分享会",
+      "memberIds": [
+        "current_user",
+        "user_72",
+        "user_62",
+        "user_40",
+        "user_75",
+        "user_30",
+        "user_19",
+        "user_67",
+        "user_58",
+        "user_49",
+        "user_6",
+        "user_37",
+        "user_69",
+        "user_65",
+        "user_86"
+      ],
+      "avatarUrl": "avatar/group_4.jpg",
+      "announcement": "人生苦短，我用Python",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_11",
+      "name": "铲屎官联盟",
+      "memberIds": [
+        "current_user",
+        "user_3",
+        "user_69",
+        "user_68",
+        "user_77",
+        "user_47",
+        "user_86",
+        "user_88",
+        "user_17",
+        "user_5",
+        "user_71",
+        "user_51",
+        "user_81",
+        "user_30",
+        "user_46"
+      ],
+      "avatarUrl": "avatar/group_3.jpg",
+      "announcement": "吸猫撸狗，快乐每一天",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_12",
+      "name": "小区业主互助群",
+      "memberIds": [
+        "current_user",
+        "user_45",
+        "user_3",
+        "user_73",
+        "user_79",
+        "user_39",
+        "user_15",
+        "user_1",
+        "user_80",
+        "user_65",
+        "user_20",
+        "user_18",
+        "user_59"
+      ],
+      "avatarUrl": "avatar/group_2.jpg",
+      "announcement": "邻里和睦，互帮互助",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_13",
+      "name": "买买买剁手群",
+      "memberIds": [
+        "current_user",
+        "user_42",
+        "user_25",
+        "user_81",
+        "user_30",
+        "user_44",
+        "user_36",
+        "user_98",
+        "user_29",
+        "user_63",
+        "user_23",
+        "user_60"
+      ],
+      "avatarUrl": "avatar/group_2.jpg",
+      "announcement": "理性消费，快乐购物",
+      "isActive": true
+    },
+    {
+      "chatRoomId": "group_14",
+      "name": "深夜emo收容所",
+      "memberIds": [
+        "current_user",
+        "user_8",
+        "user_87",
+        "user_49",
+        "user_100",
+        "user_60",
+        "user_29",
+        "user_5",
+        "user_9",
+        "user_18",
+        "user_70",
+        "user_26",
+        "user_28"
+      ],
+      "avatarUrl": "avatar/group_3.jpg",
+      "announcement": "成年人的世界没有容易二字",
+      "isActive": true
+    }
+  ]
+}

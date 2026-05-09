@@ -1,0 +1,481 @@
+{
+  "privateChatMessages": {
+    "user_1": [
+      {
+        "id": "msg_001",
+        "senderId": "user_1",
+        "receiverId": "current_user",
+        "chatRoomId": null,
+        "content": "嗨！最近怎么样？",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T10:30:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_002",
+        "senderId": "current_user",
+        "receiverId": "user_1",
+        "chatRoomId": null,
+        "content": "还不错，工作挺忙的。你呢？",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T10:32:00",
+        "isFromSelf": true,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_003",
+        "senderId": "user_1",
+        "receiverId": "current_user",
+        "chatRoomId": null,
+        "content": "我也是，不过今天天气不错，想出去走走",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T10:35:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_004",
+        "senderId": "current_user",
+        "receiverId": "user_1",
+        "chatRoomId": null,
+        "content": "image/image_3.jpg",
+        "type": "IMAGE",
+        "timestamp": "2025-09-15T10:36:00",
+        "isFromSelf": true,
+        "mediaPath": "image/image_3.jpg"
+      }
+    ],
+    "user_2": [
+      {
+        "id": "msg_005",
+        "senderId": "user_2",
+        "receiverId": "current_user",
+        "chatRoomId": null,
+        "content": "明天的数学课要讲新内容，记得预习一下",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T14:20:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_006",
+        "senderId": "current_user",
+        "receiverId": "user_2",
+        "chatRoomId": null,
+        "content": "好的老师，我会认真预习的",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T14:25:00",
+        "isFromSelf": true,
+        "mediaPath": null
+      }
+    ],
+    "user_3": [
+      {
+        "id": "msg_007",
+        "senderId": "user_3",
+        "receiverId": "current_user",
+        "chatRoomId": null,
+        "content": "刚写了首新歌，想听听吗？",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T16:10:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_008",
+        "senderId": "current_user",
+        "receiverId": "user_3",
+        "chatRoomId": null,
+        "content": "当然想听！发过来吧",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T16:12:00",
+        "isFromSelf": true,
+        "mediaPath": null
+      }
+    ],
+    "user_4": [
+      {
+        "id": "msg_009",
+        "senderId": "user_4",
+        "receiverId": "current_user",
+        "chatRoomId": null,
+        "content": "周末有空吗？一起打球",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T18:30:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_010",
+        "senderId": "current_user",
+        "receiverId": "user_4",
+        "chatRoomId": null,
+        "content": "好的，几点？",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T18:32:00",
+        "isFromSelf": true,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_011",
+        "senderId": "user_4",
+        "receiverId": "current_user",
+        "chatRoomId": null,
+        "content": "下午2点，老地方见",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T18:35:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      }
+    ],
+    "user_5": [
+      {
+        "id": "msg_034",
+        "senderId": "user_5",
+        "receiverId": "current_user",
+        "chatRoomId": null,
+        "content": "有时间聊聊吗？想请教一些问题",
+        "type": "TEXT",
+        "timestamp": "2025-09-16T08:00:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_035",
+        "senderId": "current_user",
+        "receiverId": "user_5",
+        "chatRoomId": null,
+        "content": "当然可以，什么问题？",
+        "type": "TEXT",
+        "timestamp": "2025-09-16T08:05:00",
+        "isFromSelf": true,
+        "mediaPath": null
+      }
+    ],
+    "user_6": [
+      {
+        "id": "msg_036",
+        "senderId": "user_6",
+        "receiverId": "current_user",
+        "chatRoomId": null,
+        "content": "明天一起健身吗？",
+        "type": "TEXT",
+        "timestamp": "2025-09-16T08:30:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_037",
+        "senderId": "current_user",
+        "receiverId": "user_6",
+        "chatRoomId": null,
+        "content": "好的！几点？",
+        "type": "TEXT",
+        "timestamp": "2025-09-16T08:32:00",
+        "isFromSelf": true,
+        "mediaPath": null
+      }
+    ],
+    "user_7": [
+      {
+        "id": "msg_038",
+        "senderId": "user_7",
+        "receiverId": "current_user",
+        "chatRoomId": null,
+        "content": "最近在读什么书？",
+        "type": "TEXT",
+        "timestamp": "2025-09-16T09:00:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_039",
+        "senderId": "current_user",
+        "receiverId": "user_7",
+        "chatRoomId": null,
+        "content": "最近在看Android开发的书籍",
+        "type": "TEXT",
+        "timestamp": "2025-09-16T09:02:00",
+        "isFromSelf": true,
+        "mediaPath": null
+      }
+    ],
+    "user_8": [
+      {
+        "id": "msg_040",
+        "senderId": "user_8",
+        "receiverId": "current_user",
+        "chatRoomId": null,
+        "content": "上海的天气真不错，你那边呢？",
+        "type": "TEXT",
+        "timestamp": "2025-09-16T09:30:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_041",
+        "senderId": "current_user",
+        "receiverId": "user_8",
+        "chatRoomId": null,
+        "content": "北京这边也不错，秋高气爽的",
+        "type": "TEXT",
+        "timestamp": "2025-09-16T09:32:00",
+        "isFromSelf": true,
+        "mediaPath": null
+      }
+    ]
+  },
+  "groupChatMessages": {
+    "group_1": [
+      {
+        "id": "msg_012",
+        "senderId": "user_1",
+        "receiverId": null,
+        "chatRoomId": "group_1",
+        "content": "大家好！最近都在忙什么呢？",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T09:00:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_013",
+        "senderId": "user_2",
+        "receiverId": null,
+        "chatRoomId": "group_1",
+        "content": "我在准备下学期的课程",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T09:05:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_014",
+        "senderId": "current_user",
+        "receiverId": null,
+        "chatRoomId": "group_1",
+        "content": "我最近在学Android开发，挺有趣的",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T09:08:00",
+        "isFromSelf": true,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_015",
+        "senderId": "user_10",
+        "receiverId": null,
+        "chatRoomId": "group_1",
+        "content": "那很棒啊！以后可以开发自己的APP了",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T09:10:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_016",
+        "senderId": "user_16",
+        "receiverId": null,
+        "chatRoomId": "group_1",
+        "content": "image/image_4.jpg",
+        "type": "IMAGE",
+        "timestamp": "2025-09-15T09:15:00",
+        "isFromSelf": false,
+        "mediaPath": "image/image_4.jpg"
+      },
+      {
+        "id": "msg_017",
+        "senderId": "user_16",
+        "receiverId": null,
+        "chatRoomId": "group_1",
+        "content": "刚拍的家里的花，开得真好看",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T09:16:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      }
+    ],
+    "group_2": [
+      {
+        "id": "msg_018",
+        "senderId": "user_4",
+        "receiverId": null,
+        "chatRoomId": "group_2",
+        "content": "明天的会议大家都准备好了吗？",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T15:00:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_019",
+        "senderId": "user_2",
+        "receiverId": null,
+        "chatRoomId": "group_2",
+        "content": "我的部分已经准备好了",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T15:02:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_020",
+        "senderId": "current_user",
+        "receiverId": null,
+        "chatRoomId": "group_2",
+        "content": "我也准备好了，PPT已经做完",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T15:05:00",
+        "isFromSelf": true,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_021",
+        "senderId": "user_9",
+        "receiverId": null,
+        "chatRoomId": "group_2",
+        "content": "那就好，明天会议顺利进行",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T15:08:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_022",
+        "senderId": "user_13",
+        "receiverId": null,
+        "chatRoomId": "group_2",
+        "content": "项目进度如何？需要我协助吗？",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T15:10:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      }
+    ],
+    "group_3": [
+      {
+        "id": "msg_023",
+        "senderId": "user_1",
+        "receiverId": null,
+        "chatRoomId": "group_3",
+        "content": "好久不见大家，最近都好吗？",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T20:00:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_024",
+        "senderId": "user_3",
+        "receiverId": null,
+        "chatRoomId": "group_3",
+        "content": "我还是在做音乐，最近出了张新专辑",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T20:02:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_025",
+        "senderId": "current_user",
+        "receiverId": null,
+        "chatRoomId": "group_3",
+        "content": "太棒了！一定要听听",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T20:05:00",
+        "isFromSelf": true,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_026",
+        "senderId": "user_8",
+        "receiverId": null,
+        "chatRoomId": "group_3",
+        "content": "我现在在上海工作，有机会大家聚聚",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T20:08:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_027",
+        "senderId": "user_15",
+        "receiverId": null,
+        "chatRoomId": "group_3",
+        "content": "好主意！我们组织一次同学聚会吧",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T20:10:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      }
+    ],
+    "group_4": [
+      {
+        "id": "msg_028",
+        "senderId": "user_6",
+        "receiverId": null,
+        "chatRoomId": "group_4",
+        "content": "今天跑了5公里！大家都运动了吗？",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T19:00:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_029",
+        "senderId": "user_14",
+        "receiverId": null,
+        "chatRoomId": "group_4",
+        "content": "我今天做了瑜伽，感觉很棒",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T19:05:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_030",
+        "senderId": "current_user",
+        "receiverId": null,
+        "chatRoomId": "group_4",
+        "content": "我今天游泳了1000米",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T19:08:00",
+        "isFromSelf": true,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_031",
+        "senderId": "user_4",
+        "receiverId": null,
+        "chatRoomId": "group_4",
+        "content": "大家都很棒！坚持就是胜利",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T19:10:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      },
+      {
+        "id": "msg_032",
+        "senderId": "user_11",
+        "receiverId": null,
+        "chatRoomId": "group_4",
+        "content": "image/image_5.jpg",
+        "type": "IMAGE",
+        "timestamp": "2025-09-15T19:15:00",
+        "isFromSelf": false,
+        "mediaPath": "image/image_5.jpg"
+      },
+      {
+        "id": "msg_033",
+        "senderId": "user_11",
+        "receiverId": null,
+        "chatRoomId": "group_4",
+        "content": "今天健身房的照片，大家一起加油！",
+        "type": "TEXT",
+        "timestamp": "2025-09-15T19:16:00",
+        "isFromSelf": false,
+        "mediaPath": null
+      }
+    ]
+  }
+}
