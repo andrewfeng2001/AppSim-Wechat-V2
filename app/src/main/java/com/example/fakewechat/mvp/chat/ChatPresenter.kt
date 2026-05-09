@@ -85,8 +85,10 @@ class ChatPresenter(
             )
         }
 
-        // 按时间排序，最新的在前面
-        return chatItems.sortedByDescending { parseTimestamp(it.lastMessageTime) }
+        // 按时间排序，最新的在前面，首页最多展示 5 个聊天
+        return chatItems
+            .sortedByDescending { parseTimestamp(it.lastMessageTime) }
+            .take(5)
     }
 
     private fun formatTime(timestamp: String?): String {
