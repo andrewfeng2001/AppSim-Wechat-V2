@@ -29,6 +29,7 @@ import com.example.fakewechat.mvp.me.MeContract
 import com.example.fakewechat.mvp.me.MePresenter
 import com.example.fakewechat.mvp.me.MenuItem
 import com.example.fakewechat.repository.DataRepository
+import com.example.fakewechat.ui.underdevelopment.UnderDevelopmentActivity
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -48,31 +49,31 @@ fun MeTab() {
             }
 
             override fun navigateToProfileEdit() {
-                // TODO: 导航到个人资料编辑页面
+                context.startActivity(UnderDevelopmentActivity.createIntent(context, "个人信息"))
             }
 
             override fun navigateToService() {
-                // TODO: 导航到服务页面
+                context.startActivity(UnderDevelopmentActivity.createIntent(context, "服务"))
             }
 
             override fun navigateToFavorites() {
-                // TODO: 导航到收藏页面
+                context.startActivity(UnderDevelopmentActivity.createIntent(context, "收藏"))
             }
 
             override fun navigateToAlbum() {
-                // TODO: 导航到朋友圈页面
+                context.startActivity(UnderDevelopmentActivity.createIntent(context, "朋友圈"))
             }
 
             override fun navigateToCardPackage() {
-                // TODO: 导航到卡包页面
+                context.startActivity(UnderDevelopmentActivity.createIntent(context, "卡包"))
             }
 
             override fun navigateToEmoji() {
-                // TODO: 导航到表情页面
+                context.startActivity(UnderDevelopmentActivity.createIntent(context, "表情"))
             }
 
             override fun navigateToSettings() {
-                // TODO: 导航到设置页面
+                context.startActivity(UnderDevelopmentActivity.createIntent(context, "设置"))
             }
 
             override fun showLoading() {
@@ -172,6 +173,8 @@ private fun UserProfileCard(
     user: Contact,
     onProfileClick: () -> Unit
 ) {
+    val context = LocalContext.current
+
     Card(
         modifier = Modifier
             .fillMaxWidth()
@@ -249,7 +252,11 @@ private fun UserProfileCard(
                 tint = Color.Gray,
                 modifier = Modifier
                     .size(20.dp)
-                    .clickable { /* TODO: 进入个人信息 */ }
+                    .clickable {
+                        context.startActivity(
+                            UnderDevelopmentActivity.createIntent(context, "个人信息")
+                        )
+                    }
             )
         }
 
@@ -262,7 +269,11 @@ private fun UserProfileCard(
         ) {
             // + 状态按钮
             OutlinedButton(
-                onClick = { /* TODO: 设置状态 */ },
+                onClick = {
+                    context.startActivity(
+                        UnderDevelopmentActivity.createIntent(context, "状态")
+                    )
+                },
                 modifier = Modifier.height(32.dp),
                 shape = RoundedCornerShape(16.dp),
                 border = BorderStroke(1.dp, Color.Gray),
@@ -286,7 +297,11 @@ private fun UserProfileCard(
 
             // 转发按钮
             OutlinedButton(
-                onClick = { /* TODO: 转发 */ },
+                onClick = {
+                    context.startActivity(
+                        UnderDevelopmentActivity.createIntent(context, "转发")
+                    )
+                },
                 modifier = Modifier.height(32.dp),
                 shape = RoundedCornerShape(16.dp),
                 border = BorderStroke(1.dp, Color.Gray),

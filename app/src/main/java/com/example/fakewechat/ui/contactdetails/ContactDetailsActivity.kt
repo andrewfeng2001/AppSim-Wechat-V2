@@ -29,6 +29,7 @@ import com.example.fakewechat.mvp.contactdetails.ContactDetailsPresenter
 import com.example.fakewechat.repository.DataRepository
 import com.example.fakewechat.ui.theme.FakeWeChatTheme
 import com.example.fakewechat.ui.chatdetails.ChatDetailsActivity
+import com.example.fakewechat.ui.underdevelopment.UnderDevelopmentActivity
 
 class ContactDetailsActivity : ComponentActivity(), ContactDetailsContract.View {
 
@@ -357,11 +358,11 @@ class ContactDetailsActivity : ComponentActivity(), ContactDetailsContract.View 
     }
 
     override fun showFriendProfile() {
-        Toast.makeText(this, "朋友资料功能待实现", Toast.LENGTH_SHORT).show()
+        startActivity(UnderDevelopmentActivity.createIntent(this, "朋友资料"))
     }
 
     override fun showMoments() {
-        Toast.makeText(this, "朋友圈功能待实现", Toast.LENGTH_SHORT).show()
+        startActivity(UnderDevelopmentActivity.createIntent(this, "朋友圈"))
     }
 
     override fun showSendMessage() {
@@ -376,15 +377,15 @@ class ContactDetailsActivity : ComponentActivity(), ContactDetailsContract.View 
     }
 
     override fun showVideoCall() {
-        Toast.makeText(this, "音视频通话功能待实现", Toast.LENGTH_SHORT).show()
+        startActivity(UnderDevelopmentActivity.createIntent(this, "音视频通话"))
     }
 
     override fun showMoreOptions() {
-        Toast.makeText(this, "更多选项功能待实现", Toast.LENGTH_SHORT).show()
+        startActivity(UnderDevelopmentActivity.createIntent(this, "更多"))
     }
 
     override fun showAddToContacts() {
-        Toast.makeText(this, "添加到通讯录功能待实现", Toast.LENGTH_SHORT).show()
+        startActivity(UnderDevelopmentActivity.createIntent(this, "添加到通讯录"))
     }
 
     override fun showLoading() {}

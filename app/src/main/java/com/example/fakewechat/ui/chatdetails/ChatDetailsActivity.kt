@@ -45,6 +45,7 @@ import com.example.fakewechat.mvp.chatdetails.ChatMessageItem
 import com.example.fakewechat.repository.DataRepository
 import com.example.fakewechat.ui.theme.FakeWeChatTheme
 import com.example.fakewechat.ui.contactdetails.ContactDetailsActivity
+import com.example.fakewechat.ui.underdevelopment.UnderDevelopmentActivity
 
 class ChatDetailsActivity : ComponentActivity(), ChatDetailsContract.View {
 
@@ -374,11 +375,13 @@ class ChatDetailsActivity : ComponentActivity(), ChatDetailsContract.View {
                         .padding(12.dp),
                     verticalAlignment = Alignment.CenterVertically
                 ) {
-                    // 语音按钮 - 仅作UI展示，不可点击
+                    // 语音按钮 - 功能未实现，点击跳转占位页面
                     Text(
                         text = "🎤",
                         fontSize = 24.sp,
-                        modifier = Modifier.padding(4.dp),
+                        modifier = Modifier
+                            .clickable { presenter.onVoiceClicked() }
+                            .padding(4.dp),
                         color = Color.Gray
                     )
 
@@ -575,11 +578,11 @@ class ChatDetailsActivity : ComponentActivity(), ChatDetailsContract.View {
     }
 
     override fun showMenuOptions() {
-        Toast.makeText(this, "更多功能", Toast.LENGTH_SHORT).show()
+        startActivity(UnderDevelopmentActivity.createIntent(this, "更多功能"))
     }
 
     override fun showVoiceInput() {
-        Toast.makeText(this, "语音输入", Toast.LENGTH_SHORT).show()
+        startActivity(UnderDevelopmentActivity.createIntent(this, "语音输入"))
     }
 
     override fun showEmojiPanel() {
@@ -587,7 +590,7 @@ class ChatDetailsActivity : ComponentActivity(), ChatDetailsContract.View {
     }
 
     override fun showMoreOptions() {
-        Toast.makeText(this, "发送图片等", Toast.LENGTH_SHORT).show()
+        startActivity(UnderDevelopmentActivity.createIntent(this, "更多"))
     }
 
     override fun scrollToBottom() {
