@@ -22,6 +22,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import android.content.Intent
 import com.example.fakewechat.ui.moments.MomentsActivity
+import com.example.fakewechat.ui.underdevelopment.UnderDevelopmentActivity
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -76,6 +77,11 @@ fun DiscoverTab() {
                         if (item.title == "朋友圈") {
                             val intent = Intent(context, MomentsActivity::class.java)
                             context.startActivity(intent)
+                        } else {
+                            // 其余功能尚未实现，统一跳转到占位页面
+                            context.startActivity(
+                                UnderDevelopmentActivity.createIntent(context, item.title)
+                            )
                         }
                     }
                 )

@@ -40,6 +40,10 @@
             android:name=".ui.search.SearchActivity"
             android:theme="@style/Theme.FakeWechat"
             android:exported="false" />
+        <activity
+            android:name=".ui.underdevelopment.UnderDevelopmentActivity"
+            android:theme="@style/Theme.FakeWechat"
+            android:exported="false" />
     </application>
 
 </manifest>

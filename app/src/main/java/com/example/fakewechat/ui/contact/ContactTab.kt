@@ -31,6 +31,7 @@ import com.example.fakewechat.mvp.contact.ContactContract
 import com.example.fakewechat.mvp.contact.ContactPresenter
 import com.example.fakewechat.repository.DataRepository
 import com.example.fakewechat.ui.contactdetails.ContactDetailsActivity
+import com.example.fakewechat.ui.underdevelopment.UnderDevelopmentActivity
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -242,6 +243,8 @@ fun ContactTab() {
 // 功能区组件
 @Composable
 private fun ContactFunctionSection() {
+    val context = LocalContext.current
+
     val functionItems = listOf(
         FunctionItem("新的朋友", Icons.Default.Person, Color(0xFFFF8A00)),
         FunctionItem("群聊", Icons.Default.Person, Color(0xFF07C160)),
@@ -254,7 +257,9 @@ private fun ContactFunctionSection() {
             FunctionItemRow(
                 item = item,
                 onClick = {
-                    // TODO: 处理功能点击
+                    context.startActivity(
+                        UnderDevelopmentActivity.createIntent(context, item.title)
+                    )
                 }
             )
         }
